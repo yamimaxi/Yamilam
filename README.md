@@ -1,0 +1,2 @@
+# Yamilam
+Script termux
